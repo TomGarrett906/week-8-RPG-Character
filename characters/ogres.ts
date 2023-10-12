@@ -1,4 +1,3 @@
-// ogres.ts
 import { Attack, CollectGold, Defend } from './interface'
 import Character from './character'
 

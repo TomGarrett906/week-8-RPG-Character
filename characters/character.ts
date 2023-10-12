@@ -1,4 +1,4 @@
-// character.ts
+
 import { Attack, Defend, CollectGold } from './interface'
 
 export default abstract class Character implements Attack, Defend, CollectGold {
